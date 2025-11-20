@@ -1,0 +1,13 @@
+
+/**
+ * Write a description of class DataTypeInspector here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class DataTypeInspector
+{
+    public static void main(String[] args){
+        
+    }
+}
