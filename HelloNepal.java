@@ -19,8 +19,7 @@ public class HelloNepal
     int a=10;
     int b=15;
     
-    System.out.println(a ==
-    b); //false
+    System.out.println(a ==b); //false
     System.out.println(a != b); //true
     System.out.println(a > b); //false
     System.out.println(a < b); //true
